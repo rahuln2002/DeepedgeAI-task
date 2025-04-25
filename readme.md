@@ -68,4 +68,5 @@ This project is a full-stack RAG (Retrieval-Augmented Generation) search applica
 ## 📌 Notes
 
 - This app uses **Together API** instead of OpenAI for LLM inference
+- This is just a basic version, the response of the LLM can be further refined
 - Make sure your `.env` file contains valid API keys
