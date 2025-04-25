@@ -52,4 +52,4 @@ def query():
     return jsonify({"answer" : response})
 
 if __name__ == '__main__':
-    app.run(host='localhost', port=8501, debug=True)
+    app.run(host='localhost', port=8501)
