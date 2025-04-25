@@ -1,6 +1,13 @@
 python-dotenv
 flask
-openai==1.35.15
+# openai==1.35.15
 requests
 streamlit
 beautifulsoup4
+together
+faiss-cpu
+langchain
+langchain-community
+langchain-together
+langchain-core
+langchain-huggingface
